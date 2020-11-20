@@ -1,0 +1,5 @@
+A one 24
+B two 21
+C three 39
+D four 19
+E five 22
